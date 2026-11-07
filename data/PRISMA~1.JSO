@@ -1,0 +1,72 @@
+{
+ "sources": {
+  "PubMed/MEDLINE": 1947,
+  "Embase": 2654,
+  "Europe PMC": 1117,
+  "African Journals Online": 740,
+  "ERIC": 264,
+  "Global Index Medicus": 173,
+  "Google Scholar": 110,
+  "WHO ICTRP": 31,
+  "ClinicalTrials.gov": 23,
+  "PsyArXiv": 2
+ },
+ "identified": 7061,
+ "duplicates": 2643,
+ "screened": 4418,
+ "ta_excluded": 4310,
+ "sought": 108,
+ "not_retrieved": [
+  "R0155",
+  "R1227",
+  "R2390",
+  "R3150",
+  "R3151",
+  "R2443",
+  "R3140",
+  "R3192",
+  "R3190",
+  "R3178"
+ ],
+ "other_identified": 10,
+ "other_excluded": [
+  "EXTRA04",
+  "EXTRA07",
+  "EXTRA08",
+  "EXTRA09"
+ ],
+ "other_included": [
+  "EXTRA01",
+  "EXTRA02",
+  "EXTRA03",
+  "EXTRA05",
+  "EXTRA06",
+  "EXTRA10"
+ ],
+ "awaiting": [
+  "R3128"
+ ],
+ "ongoing": [
+  "R4383"
+ ],
+ "assessed": 98,
+ "excluded_db": 37,
+ "excluded_db_reasons": {
+  "Not a psychological or psychosocial intervention": 8,
+  "Wrong population": 7,
+  "No eligible mental health outcome": 7,
+  "Protocol or registry record without results": 6,
+  "No concurrent control group": 3,
+  "Duplicate report": 3,
+  "Insufficient outcome data": 2,
+  "Ineligible design": 1
+ },
+ "excluded_other_reasons": {
+  "No concurrent control group": 2,
+  "No eligible mental health outcome": 1,
+  "Wrong population": 1
+ },
+ "included_reports": 65,
+ "included_db": 59,
+ "included_studies": 60
+}
