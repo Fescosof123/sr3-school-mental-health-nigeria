@@ -1,0 +1,17 @@
+"outcome","design","timepoint","k","rec_no","label","g","ci_lb","ci_ub","direction","rob","tierA"
+"ptsd_trauma","randomised","post",2,"R3145","Aliyu GM 2025 (R3145)",2.12,1.49,2.75,"favours intervention","H",FALSE
+"ptsd_trauma","randomised","post",2,"R3157","Mebu VA 2019 (R3157)",1.48,0.79,2.16,"favours intervention","SC",FALSE
+"self_esteem","randomised","post",2,"R0493","Ede MO 2023 (R0493)",-3.88,-4.51,-3.24,"favours control","H",TRUE
+"self_esteem","randomised","post",2,"R2744","Ekeanya BE 2023 (R2744)",0.55,-0.19,1.28,"favours intervention","H",FALSE
+"self_esteem","non_randomised","post",2,"R3123","Are A 2022 (R3123)",0.79,-0.1,1.68,"favours intervention","S",FALSE
+"self_esteem","non_randomised","post",2,"R2451","Gwaison PD 2021 (R2451)",0.86,0.26,1.46,"favours intervention","S",TRUE
+"wellbeing","randomised","post",1,"R2410","Ajobiewe AI 2011 (R2410)",1.24,0.54,1.94,"favours intervention","H",FALSE
+"wellbeing","non_randomised","post",1,"R3141","Majebi OI 2026 (R3141)",1.86,1.13,2.59,"favours intervention","S",FALSE
+"suicidal_ideation","non_randomised","post",1,"R3144","Adetula JO 2026 (R3144)",1.73,0.85,2.61,"favours intervention","S",FALSE
+"sleep","randomised","post",1,"R0670","Egbegi DR 2021 (R0670)",2.29,1.31,3.26,"favours intervention","H",TRUE
+"sleep","non_randomised","post",1,"R3144","Adetula JO 2026 (R3144)",2.27,1.31,3.22,"favours intervention","S",FALSE
+"other_eligible","randomised","post",1,"R1096","Bella-Awusah T 2016 (R1096)",0,-0.85,0.85,"no difference","H",FALSE
+"other_eligible","non_randomised","post",1,"R3159","Moses S 2026 (R3159)",2.23,1.23,3.22,"favours intervention","S",FALSE
+"depression","randomised","follow_up",1,"R0522","Aneke AO 2023 (R0522)",3.48,2.76,4.2,"favours intervention","H",TRUE
+"anxiety_general","randomised","follow_up",1,"R0691","Obiweluozo PE 2021 (R0691)",0.77,0.47,1.08,"favours intervention","H",FALSE
+"self_esteem","randomised","follow_up",1,"R0493","Ede MO 2023 (R0493)",-4.57,-5.28,-3.86,"favours control","H",TRUE
