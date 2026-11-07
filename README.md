@@ -1,4 +1,4 @@
-TEST LINE# School-based mental health interventions for children and adolescents in Nigeria: systematic review and meta-analysis
+# School-based mental health interventions for children and adolescents in Nigeria: systematic review and meta-analysis
 
 Data and code for the systematic review registered in PROSPERO (CRD420251232239).
 
